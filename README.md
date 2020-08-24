@@ -9,6 +9,4 @@ Having just finished my training as a Web Developer in Bordeaux, I am currently 
 
 
 
-![Dekeniv's github stats](https://github-readme-stats.vercel.app/api?username=Dekeniv&show_icons=true&include_all_commits=true&hide=contribs,stars,prs,issues&hide_border=true&count_private=true&theme=radical)
-
-![Dekeniv's github stats](https://github-readme-stats.vercel.app/api?username=Dekeniv&show_icons=true&theme=radical)
+![Dekeniv's github stats](https://github-readme-stats.vercel.app/api?username=Dekeniv&show_icons=true&include_all_commits=true&hide=contribs,stars,prs,issues&hide_border=true&count_private=true&theme=highcontrast)
