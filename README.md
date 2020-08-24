@@ -1,3 +1,3 @@
 ### Salut :wave:
 
- :computer: Je viens de terminer ma formation à "La Piscine" (alentours de Bordeaux) et je suis en stage de Dev Front dans une agence digitale sur Mérignac :smiley:
+Venant de terminer ma formation de Développeur Web sur Bordeaux, je suis actuellement en stage pour compléter mes compétences en Front-End :smiley:
