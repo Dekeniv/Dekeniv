@@ -1,11 +1,11 @@
 ### Salut, je suis Kévin :wave:
 
-Ayant juste terminé ma formation de Développeur Web à Bordeaux, je suis actuellement en stage pour augmenter mes compétences Front-End :smiley:
+J'ai obtenu pour titre professionnel de Développeur Web et je me forme actuellement en autodidacte pour augmenter mes compétences. :smiley:
 
 
 ### Hi, I'm Kevin :wave:
 
-Having just finished my training as a Web Developer in Bordeaux, I am currently on an internship to increase my skills in Front-End :smiley:
+I obtained the professional title of Web Developer and I am currently training myself to increase my skills. :smiley:
 
 
 
