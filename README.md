@@ -1,6 +1,6 @@
 ### Salut, je suis Kévin :wave:
 
-J'ai obtenu pour titre professionnel de Développeur Web et je me forme actuellement en autodidacte pour augmenter mes compétences. :smiley:
+J'ai obtenu le titre professionnel de Développeur Web et je me forme actuellement en autodidacte pour augmenter mes compétences. :smiley:
 
 
 ### Hi, I'm Kevin :wave:
