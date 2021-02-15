@@ -1,4 +1,4 @@
-### Salut, je suis Kévin :wave:
+### Salut, je suis Kévin :wave: U+1F4BB
 
 J'ai obtenu le titre professionnel de Développeur Web et je continue mon apprentissage à l'école 3W Academy. :smiley:
 
