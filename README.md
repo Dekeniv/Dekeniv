@@ -1,11 +1,11 @@
 ### Salut, je suis Kévin :wave:
 
-J'ai obtenu le titre professionnel de Développeur Web et je me forme actuellement en autodidacte pour augmenter mes compétences. :smiley:
+J'ai obtenu le titre professionnel de Développeur Web et je continue mon apprentissage à l'école 3W Academy. :smiley:
 
 
 ### Hi, I'm Kevin :wave:
 
-I obtained the professional title of Web Developer and I am currently training myself to increase my skills. :smiley:
+I obtained the professional title of Web Developer and I continue my learning at 3W Academy school. :smiley:
 
 
 
