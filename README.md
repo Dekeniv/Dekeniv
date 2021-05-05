@@ -1,11 +1,10 @@
 ### Salut, je suis Kévin :wave:
 
-J'ai obtenu le titre professionnel de Développeur Web et je continue mon apprentissage à l'école 3W Academy. :smiley:
+J'ai obtenu mon titre professionnel de Développeur Web et je poursuis actuellement mon apprentissage avec l'école M2I et la CGI. :smiley:
 
 
 ### Hi, I'm Kevin :wave:
-
-I obtained the professional title of Web Developer and I continue my learning at 3W Academy school. :smiley:
+I obtained my professional title of Web Developer and I am currently continuing my apprenticeship with the M2I school and the CGI. :smiley:
 
 
 
